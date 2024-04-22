@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.NotFound-container {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.NotFound-content-container {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6px;
+}
+
+.NotFound-responsive-container {
+  flex-grow: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 6px;
+}
+
+.image1 {
+  width: 320px;
+}
